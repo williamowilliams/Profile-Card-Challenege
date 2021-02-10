@@ -1,0 +1,26 @@
+* {
+    background-color: hsl(185, 75%, 39%);
+    font-size: 18px;
+}
+
+#topImage {
+    position: absolute;
+    bottom: 500px;
+    left: -300px;
+}
+
+#bottomImage {
+    position: absolute;
+    top: 500px;
+    right: -300px;
+}
+
+.card {
+    text-align: center;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(228, 45%, 44%); 
+}
