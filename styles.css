@@ -16,7 +16,20 @@
 }
 
 .card {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card img {
+    border-radius: 50%;
+}
+
+.socialMedia {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .attribution { 
