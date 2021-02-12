@@ -17,22 +17,22 @@ body {
     box-shadow: 0px 0px 10px 1px #fff;
 }
 
-.topCard {
+.top-card {
     height: 150px;
 }
 
-.topCard img {
+.top-card img {
     border-radius: 10px 10px 0px 0px;
     width: 425px;
     height: 150px;
 }
 
-.middleCard {
+.middle-card {
     background-color: #fff;
 
 }
 
-.bottomCard {
+.bottom-card {
     background-color: #fff;
     display: flex;
     text-align: center;
@@ -40,7 +40,7 @@ body {
 
 }
 
-.middleCard img {
+.middle-card img {
     border-radius: 50%;
     background-color: #fff;
 }
@@ -52,13 +52,13 @@ body {
     color: hsl(228, 45%, 44%); 
 }
 
-#topImage {
+#top-mage {
     position: absolute;
     bottom: 500px;
     left: -300px;
 }
 
-#bottomImage {
+#bottom-mage {
     position: absolute;
     top: 500px;
     right: -300px;
